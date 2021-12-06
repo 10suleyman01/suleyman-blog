@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/suleyman-blog/static/css/main.4cd1c1a9.chunk.css",
+    "main.js": "/suleyman-blog/static/js/main.f323e373.chunk.js",
+    "main.js.map": "/suleyman-blog/static/js/main.f323e373.chunk.js.map",
+    "runtime-main.js": "/suleyman-blog/static/js/runtime-main.c5cf5f82.js",
+    "runtime-main.js.map": "/suleyman-blog/static/js/runtime-main.c5cf5f82.js.map",
+    "static/js/2.fac082e0.chunk.js": "/suleyman-blog/static/js/2.fac082e0.chunk.js",
+    "static/js/2.fac082e0.chunk.js.map": "/suleyman-blog/static/js/2.fac082e0.chunk.js.map",
+    "index.html": "/suleyman-blog/index.html",
+    "static/css/main.4cd1c1a9.chunk.css.map": "/suleyman-blog/static/css/main.4cd1c1a9.chunk.css.map",
+    "static/js/2.fac082e0.chunk.js.LICENSE.txt": "/suleyman-blog/static/js/2.fac082e0.chunk.js.LICENSE.txt",
+    "static/media/avatar.e1d07108.jpg": "/suleyman-blog/static/media/avatar.e1d07108.jpg",
+    "static/media/instagram.75e0546a.png": "/suleyman-blog/static/media/instagram.75e0546a.png",
+    "static/media/telegram.e8540dc1.png": "/suleyman-blog/static/media/telegram.e8540dc1.png",
+    "static/media/vk.7f998af7.png": "/suleyman-blog/static/media/vk.7f998af7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5cf5f82.js",
+    "static/js/2.fac082e0.chunk.js",
+    "static/css/main.4cd1c1a9.chunk.css",
+    "static/js/main.f323e373.chunk.js"
+  ]
+}
